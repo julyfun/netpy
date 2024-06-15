@@ -1,0 +1,6 @@
+[submodule "NumPyNet"]
+	path = NumPyNet
+	url = git@github.com:Nico-Curti/NumPyNet.git
+[submodule "NeuralNetPy"]
+	path = NeuralNetPy
+	url = git@github.com:julyfun/NeuralNetPy.git
